@@ -1,4 +1,4 @@
-# Python cache
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *.pyo
@@ -12,19 +12,15 @@ venv/
 # Gradio session cache
 .gradio/
 
-# VSCode settings (nếu bạn dùng VSCode)
+# Git config
+.git/
+
+# VSCode project settings (optional)
 .vscode/
 
-# System files
+# OS files
 .DS_Store
 Thumbs.db
 
-# Jupyter Notebook checkpoints (nếu có)
-.ipynb_checkpoints/
-
-# Local vectorstore & data (nếu bạn không muốn version chúng)
+# Vector store generated at runtime
 vectorstore/
-data/
-
-# Git itself
-.git/
