@@ -63,8 +63,8 @@ LangChain Agent
 ### 1. Clone source
 
 ```bash
-git clone https://github.com/yourname/company-chatbot-api.git
-cd company-chatbot-api
+git clone https://github.com/NguyenHuuViet322/ChatbotCore
+cd ChatbotCore
 ```
 
 ### 2. Tạo môi trường ảo và cài thư viện
