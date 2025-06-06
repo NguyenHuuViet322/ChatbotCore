@@ -1,0 +1,11 @@
+langchain-community
+langchain-openai # Can keep this if you want to easily switch, or remove if not needed
+langchain-chroma
+langchain
+langgraph
+tavily-python
+langchain-huggingface
+langchain-tavily
+gradio
+python-dotenv
+langchain-google-genai # Add this line

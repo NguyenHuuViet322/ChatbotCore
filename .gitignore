@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+
+# Gradio session cache
+.gradio/
+
+# VSCode settings (nếu bạn dùng VSCode)
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints (nếu có)
+.ipynb_checkpoints/
+
+# Local vectorstore & data (nếu bạn không muốn version chúng)
+vectorstore/
+data/
+
+# Git itself
+.git/
